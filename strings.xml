@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Komunikator</string>
+    <string name="send">Wyślij wiadomość</string>
+    <string name="hint">Wpisz treść wiadomości</string>
+    <string name="chooser">Wysyłanie wiadomości</string>
+
+</resources>
